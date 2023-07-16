@@ -105,3 +105,4 @@ During the course of this project,
 ##### Use Case Diagram for Coding Game:
 
 ![JukeBox Conceptual Overview](https://user-images.githubusercontent.com/55679683/202711048-5361a8b7-005b-4606-90f6-6ef6dff55599.png)
+
